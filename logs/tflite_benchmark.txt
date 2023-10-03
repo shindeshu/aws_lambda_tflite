@@ -1,0 +1,4 @@
+Time elapsed for Importing Libraries: 0.01
+Time elapsed for Loading model: 0.06
+{'cat': array([1.000000e+00, 6.131948e-12], dtype=float32)}
+Time elapsed for End of script: 2.09

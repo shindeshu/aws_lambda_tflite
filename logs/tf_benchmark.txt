@@ -1,0 +1,7 @@
+Time elapsed for importing tensorflow: 5.44
+Time elapsed for Loading model: 7.81
+
+1/1 [==============================] - ETA: 0s
+1/1 [==============================] - 1s 1s/step
+{'cat': [1.0, 6.131783882729058e-12]}
+Time elapsed for End of script: 11.06
